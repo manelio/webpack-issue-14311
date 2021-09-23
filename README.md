@@ -8,7 +8,7 @@ npx webpack serve -c ../webpack.config.js
 
 Open browser at specified port. Everything is ok.
 
-# Test Webpack 4
+# Test Webpack 5
 
 ```
 cd webpack5
